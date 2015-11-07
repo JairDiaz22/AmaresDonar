@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="morelos.gob.mx.amaresdonar" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/hackton"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        <activity
+            android:name=".MainActivity"
+            android:label="Amar es Donar" >
+        </activity>
+        <activity
+            android:name=".Splash2"
+            android:label="Hackthon" >
+        </activity>
+        <activity
+            android:name=".Splash"
+            android:label="@string/title_activity_splash"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Historia"
+            android:label="@string/title_activity_historia" >
+        </activity>
+        <activity
+            android:name=".Formulario"
+            android:label="@string/title_formulario" >
+        </activity>
+        <activity
+            android:name=".InicioHistoria"
+            android:label="@string/title_activity_inicio_historia" >
+        </activity>
+        <activity
+            android:name=".HistoriaParte2"
+            android:label="@string/title_activity_historia_parte2" >
+        </activity>
+        <activity
+            android:name=".HistoriaPArte3"
+            android:label="@string/title_activity_historia_parte3" >
+        </activity>
+        <activity
+            android:name=".HistoriaParte4"
+            android:label="@string/title_activity_historia_parte4" >
+        </activity>
+        <activity
+            android:name=".HistoriaParte5"
+            android:label="@string/title_activity_historia_parte5" >
+        </activity>
+    </application>
+
+</manifest>

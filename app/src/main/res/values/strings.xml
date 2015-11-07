@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Amar es Donar</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_splash">Amar es Donar</string>
+    <string name="title_formulario">Registro</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string-array name="genero">
+        <item>Masculino</item>
+        <item>Femenino</item>
+    </string-array>
+
+    <string-array name="estadocivil">
+        <item>Casado(a)</item>
+        <item>Divorsiado(a)</item>
+        <item>Soltero(a)</item>
+        <item>Union Libre</item>
+        <item>Viudo(a)</item>
+    </string-array>
+
+    <string-array name="ocupaciones">
+        <item>Ama de Casa</item>
+        <item>Desempleado</item>
+        <item>Empleado</item>
+        <item>Estudante </item>
+        <item>Independiente</item>
+        <item>Otro</item>
+    </string-array>
+
+    <string-array name="nivelEducativo">
+        <item>Básica Primaria</item>
+        <item>Posgrado</item>
+        <item>Secundaria</item>
+        <item>Técnico </item>
+        <item>Tecnólogo</item>
+        <item>Universitaria</item>
+    </string-array>
+    <string name="title_activity_historia">Historia</string>
+    <string name="title_activity_inicio_historia">inicio_historia</string>
+    <string name="title_activity_historia_parte2">HistoriaParte2</string>
+    <string name="title_activity_historia_parte3">HistoriaPArte3</string>
+    <string name="title_activity_historia_parte4">HistoriaParte4</string>
+    <string name="title_activity_historia_parte5">HistoriaParte5</string>
+</resources>

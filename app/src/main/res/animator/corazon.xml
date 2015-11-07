@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set
+    android:ordering="sequentially"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:andduration="http://schemas.android.com/apk/res-auto"
+    xmlns:duration="http://schemas.android.com/tools">
+    <set>
+        <scale
+            android:fromXScale="0.9"
+            android:toXScale="1.1"
+            android:fromYScale="0.9"
+            android:toYScale="1.1"
+            android:duration="3000"
+            />
+    </set>
+</set>
+    <!--
+    @keyframes latido{
+       0%{transform:scale(1)}
+       47%{transform:scale(1)}
+       48%{transform:scale(.9)}
+       50%{transform:scale(1.1)}
+       52%{transform:scale(.9)}
+       54%{transform:scale(1)}
+    }
+    -->
